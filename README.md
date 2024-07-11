@@ -4,7 +4,7 @@ Esta aplicación se realizó como parte de la formación en Oracle Next Eucation
 
 🟣Funcionaliades:
 
-Registro de tópicos y guardarlos en la base de datos topicos
+Registro de tópicos y guardarlos en la base de datos topicos /n
 Listar los tópicos que están en la base de datos
 Mostrar los datos de un tópico seleccionado
 Modificar el tópico seleccionado
