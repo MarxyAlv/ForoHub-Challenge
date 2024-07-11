@@ -1,2 +1,0 @@
-# ForoHub Challenge
- Desafio Alura
